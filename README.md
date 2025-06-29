@@ -25,4 +25,4 @@ Simple [Obsidian](https://obsidian.md/) vault template.
 | `F5`                | Set as heading 2                    |
 | `F6`                | Templates: Insert current date      |
 | `F7`                | Templates: Insert current time      |
-| `F8`                | File recovery: Open saved snapshots |
+| `F9`                | File recovery: Open saved snapshots |
