@@ -6,10 +6,10 @@ Simple [Obsidian](https://obsidian.md/) vault template.
 
 | Key binding         | Command                             |
 | ------------------- | ----------------------------------- |
-| `Alt+🠄`            | Navigate back                       |
-| `Alt+🠆`            | Navigate forward                    |
-| `Alt+🠅`            | Move line up                        |
-| `Alt+🠇`            | Move line down                      |
+| `Alt+🠄`             | Navigate back                       |
+| `Alt+🠆`             | Navigate forward                    |
+| `Alt+🠅`             | Move line up                        |
+| `Alt+🠇`             | Move line down                      |
 | `Alt+3`             | Add tag                             |
 | `Alt+A`             | Add internal link                   |
 | `Alt+E`             | Toggle left sidebar                 |
