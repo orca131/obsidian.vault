@@ -16,7 +16,7 @@ Simple [Obsidian](https://obsidian.md/) vault template.
 | `Alt+R`             | Toggle right sidebar                |
 | `Alt+Q`             | Move current file to another folder |
 | `Ctrl+.`            | Toggle blockquote                   |
-| <code>Ctrl+`</code> | Insert code block                   |
+| `Ctrl+~`            | Insert code block                   |
 | `Ctrl+J`            | Daily notes: Open todays daily note |
 | `Ctrl+R`            | Toggle Live Preview/Source mode     |
 | `Ctrl+L`            | Toggle bullet list                  |
