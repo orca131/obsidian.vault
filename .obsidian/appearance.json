@@ -1,6 +1,4 @@
 {
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "enable-classic-tags"
+  "baseFontSizeAction": true
   ]
 }
