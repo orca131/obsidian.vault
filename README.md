@@ -2,6 +2,8 @@
 
 Simple [Obsidian](https://obsidian.md/) vault template.
 
+Feel free to use additional custom css from [obsidian.snippets](https://github.com/orca131/obsidian.snippets) repo.
+
 ## Hotkeys
 
 | Key binding         | Command                             |
