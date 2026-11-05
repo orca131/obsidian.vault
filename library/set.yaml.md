@@ -1,8 +1,6 @@
 ---
-aliases: 
+aliases: []
 date: {{date}}
 tags: []
 ---
 ## {{title}}
-
-
