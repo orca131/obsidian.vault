@@ -1,4 +1,68 @@
 {
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -15,47 +79,14 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "J"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
     {
       "modifiers": [
         "Alt"
@@ -66,46 +97,46 @@
   "app:go-forward": [
     {
       "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
         "Alt"
       ],
       "key": "ArrowRight"
     }
   ],
-  "editor:set-heading-2": [
+  "app:open-settings": [
     {
-      "modifiers": [],
-      "key": "F5"
-    }
-  ],
-  "insert-current-date": [
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    },
     {
-      "modifiers": [],
-      "key": "F6"
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ],
   "editor:toggle-blockquote": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "."
+      "key": "Q"
     }
   ],
-  "editor:toggle-bullet-list": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "L"
-    }
-  ],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
+      "key": "E"
     }
   ],
   "editor:toggle-source": [
@@ -116,24 +147,6 @@
       "key": "R"
     }
   ],
-  "insert-current-time": [
-    {
-      "modifiers": [],
-      "key": "F7"
-    }
-  ],
-  "workspace:toggle-stacked-tabs": [
-    {
-      "modifiers": [],
-      "key": "F3"
-    }
-  ],
-  "file-recovery:open": [
-    {
-      "modifiers": [],
-      "key": "F9"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -142,12 +155,12 @@
       "key": "R"
     }
   ],
-  "editor:insert-codeblock": [
+  "editor:toggle-fold-properties": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "`"
+      "key": "P"
     }
   ]
 }
